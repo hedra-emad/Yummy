@@ -1,4 +1,4 @@
-Description:
+# Description:
 Yummy is a dynamic front-end recipe application that offers users a vast selection of delicious recipes from around the world.
 Each recipe is presented with comprehensive details, including ingredients, preparation steps, cooking time, and nutritional information, along with a source link for more in-depth guidance.
 Yummy allows users to effortlessly search for specific dishes by name and offers the flexibility to browse recipes by various categories, regions (Area), or key ingredients, making it easier
